@@ -15,7 +15,7 @@ const links = [
   {
     name: "Steam",
     icon: SiSteam,
-    url: "https://steamcommunity.com/id/username", // Replace with actual Steam ID
+    url: "https://steamcommunity.com/profiles/76561199597554371/", // Replace with actual Steam ID
   },
   {
     name: "GitHub",
