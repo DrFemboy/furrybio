@@ -5,12 +5,12 @@ const links = [
   {
     name: "Telegram",
     icon: SiTelegram,
-    url: "https://t.me/username", // Replace with actual username
+    url: "https://t.me/hornyandfurry", // Replace with actual username
   },
   {
     name: "Matrix",
     icon: SiMatrix,
-    url: "https://matrix.to/#/@username:matrix.org", // Replace with actual Matrix ID
+    url: "https://matrix.to/#/@djping:matrix.org", // Replace with actual Matrix ID
   },
   {
     name: "Steam",
@@ -20,17 +20,17 @@ const links = [
   {
     name: "GitHub",
     icon: SiGithub,
-    url: "https://github.com/username", // Replace with actual username
+    url: "https://github.com/DrFemboy", // Replace with actual username
   },
   {
     name: "GitLab",
     icon: SiGitlab,
-    url: "https://gitlab.com/username", // Replace with actual username
+    url: "https://gitlab.com/zaharb840", // Replace with actual username
   },
   {
     name: "Mastodon",
     icon: SiMastodon,
-    url: "https://mastodon.social/@username", // Replace with actual Mastodon handle
+    url: "https://mastodon.social/@blacksystem", // Replace with actual Mastodon handle
   },
 ];
 
